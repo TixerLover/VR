@@ -33,6 +33,8 @@ TagManager:
   - QDSUIToggleThumbnail
   - Ball
   - DeathZone
+  - Suelo
+  - SafeBase
   layers:
   - Default
   - TransparentFX
